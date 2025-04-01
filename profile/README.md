@@ -1,6 +1,6 @@
 ## Szent József Hackathon
 
-2024 májusában rendezzük meg a [II. Szent József Hackathon - keresztény programozói műhely](https://www.facebook.com/events/890595452760710)t. 
+2025 májusában rendezzük meg a [III. Szent József Hackathon - keresztény programozói műhely](https://szentjozsef.jezsuita.hu/szent-jozsef-hackathon/)t. 
 Ezzel az eseménnyel szeretnénk összefogni a magyar keresztény programozói köröket és egyből lendületet is adni egy-egy nyílt forráskódú egyházi projektnek.
 
 Ebben a github szervezetben szeretnénk összefogni és összefoglalni a munkáinkat és a projektek egy részének helyet is biztosítani.

@@ -4,10 +4,26 @@ Az Open Street Map nyílt térképadatbázisba folyamatosan visszük fel és fri
 - Kulszavak: *OSM, térkép*
 - Projekt oldala: https://wiki.openstreetmap.org/wiki/Hungary/Katolikus_Templomok
 
-### Lehetséges fejleszések:
-- **Városi miserendek térképes előkészítése nyomtatása (OSM + miserend.hu)**
+## Városi miserendek térképes megjelenítése
+
+![](https://img.shields.io/github/last-commit/szentjozsefhackathon/templom-terkep?style=for-the-badge)
+![](https://img.shields.io/github/commit-activity/y/szentjozsefhackathon/templom-terkep?style=for-the-badge) 
+![](https://img.shields.io/github/issues/szentjozsefhackathon/templom-terkep?style=for-the-badge)
+![](https://img.shields.io/github/issues-pr/szentjozsefhackathon/templom-terkep?style=for-the-badge)
+![owner](https://img.shields.io/badge/Owner-vlacko0930-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fvlacko0930)
+
+A 2024-ben megrendezett II. Szent József Hackathonon QGIS segítségével jelentős manuális munkával elkészült egy Szeged-miserendtérkép.
+A II.-III. Szent József Hackathon között el lett kezdve egy automatikus szkript írása erre a feladatra. 
+- Kulcsszavak: *Python, Matplotlib, Miserend.hu API*
+- Projekt oldala: https://github.com/szentjozsefhackathon/templom-terkep
+
+### További fejlesztések:
+
+- Felhasználóbarát felület
+- Webes felület
+- Egyéb szépítések, testreszabások.
+
+## További Lehetséges fejlesztések:
 - **(Szeged) városi puzzle katolikus helyekkel kiemelve**
-- A [maradék 53](https://miserend.hu/josm) (főként) erdélyi templom megtalálása a térképen.
-- Budapesti plébániák már [megrajzolt határainak](https://www.google.com/maps/d/u/0/viewer?ll=47.48244397989413%2C19.081137596252695&z=14&mid=170dTG1OAQBJjuEN_3fFPXtFrrQwY93D4) felvitele az OSM-be.
-- Szlováikai és romániai katolikus egyházmegyék határainak felrajzolása
+- A [maradék 49](https://miserend.hu/josm) (főként) erdélyi templom megtalálása a térképen.
 - A miserend.hu adatainak áttöltéséhez katolikus key:value párok meghatározása.

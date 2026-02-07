@@ -6,14 +6,14 @@ Tervezés alatt van egy olyan honlap ami egy oldalon koordinálja sok-sok egyhá
 
 Egy oldal elkezdése amin keresztül ilyen-olyan bejelentés tehető a regisztrált szervezetek felé, de úgy hogy a honlap nem rögzíti a bejelentés tartalmát, de bárimikor ellenőrizhető hogy adott bejelentés ezen keresztül történt-e (hash alapon). Valamint rendszeresen pingeli a célt és informálja a bejelentőt, hogy hol tart a dolog, miközben szakmai segítséget is nyújt. (Szakmai háttér megvan.)
 
-Érdeklődlés [@borazslo](https://github.com/borazslo)-nál
+Érdeklődés [@borazslo](https://github.com/borazslo)-nál
 
 ## Gyóntatáskereső
 
 Shelly kütyük beszerelésével lámpakapcsolásra jelzést küldünk a szervernek, hogy gyóntatás van nálunk. Ezekből miserend id-hoz rendelve mindig friss adatbázist gyártunk.
 Öt szegedi templomban akár shelly beszerelés is része lehet a programnak.
 
-Érdeklődlés [@borazslo](https://github.com/borazslo)-nál
+Érdeklődés [@borazslo](https://github.com/borazslo)-nál
 
 ## Digitális Misekönyv (hardware + software)
 ![last commit](https://img.shields.io/github/last-commit/szentjozsefhackathon/misekonyv-spec?style=for-the-badge)

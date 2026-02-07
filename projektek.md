@@ -182,19 +182,6 @@ KSH népszámlálása adatai egyházmegyei szintre lebontva és megjelenítve, a
 - Forráskód: https://github.com/szentjozsefhackathon/katolikus-nepszamlalas
 - Honlap: https://szentjozsefhackathon.github.io/katolikus-nepszamlalas/
 
-## Liturgia.TV
-![](https://img.shields.io/github/last-commit/molnarm/liturgia.tv?style=for-the-badge)
-![](https://img.shields.io/github/commit-activity/y/molnarm/liturgia.tv?style=for-the-badge) 
-![](https://img.shields.io/github/issues/molnarm/liturgia.tv?style=for-the-badge)
-![](https://img.shields.io/github/issues-pr/molnarm/liturgia.tv?style=for-the-badge)
-![owner](https://img.shields.io/badge/Owner-molnarm-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fmolnarm)
-
-Miseközvetítések gyűjtőhelye még a covid időkből miserend.hu összekötéssel.
-
-- Kulcsszavak: *python, adatbázis, youtube*
-- Forráskód: https://github.com/molnarm/liturgia.tv
-- Honlap: https://liturgia.tv
-
 ## Igemutató böngésző kiegészítő
 ![](https://img.shields.io/github/last-commit/molnarm/igemutato?style=for-the-badge)
 ![](https://img.shields.io/github/commit-activity/y/molnarm/igemutato?style=for-the-badge) 

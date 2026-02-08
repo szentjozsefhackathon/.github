@@ -21,3 +21,15 @@ Nyílt liturgikus naptár. Bár a zsolozsma naptárja mindent visz jelenleg, de 
 
 - Forráskód: https://github.com/opensourcecatholic/opensourcecatholic.github.io
 - Honlap: https://www.opensourcecatholic.com/
+
+## synopticus.org
+![last commit](https://img.shields.io/github/last-commit/anwolosz/synopsis?style=for-the-badge)
+![commit activity](https://img.shields.io/github/commit-activity/y/anwolosz/synopsis?style=for-the-badge) 
+![issues](https://img.shields.io/github/issues/anwolosz/synopsis?style=for-the-badge)
+![pull requests](https://img.shields.io/github/issues-pr/anwolosz/synopsis?style=for-the-badge)
+![owner](https://img.shields.io/badge/Owner-anwolosz-red?style=for-the-badge)
+
+A szinopszis Máté, Márk, Lukács és János evangéliumának párhuzamos szövegeit tartalmazza. Az egymás mellett elhelyezkedő szövegdobozok az evangéliumok párhuzamos részeit mutatják be.
+
+- Forráskód: https://github.com/anwolosz/synopsis
+- Honlap: https://www.synopticus.org/hu/SZIT

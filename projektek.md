@@ -13,7 +13,7 @@ Rengeteg templomban használt kivetítőrendszer, amivel már nem csak énekeket
 - Forráskód: [github.com/diatar/diatar-android](https://github.com/diatar/diatar-android), [diatar/diatar-lazarus](https://github.com/diatar/diatar-lazarus), [diatar/diatar-dtxs](https://github.com/diatar/diatar-dtxs), [diatar/diatar-web](https://github.com/diatar/diatar-web)
 - Honlap: [diatar.eu](https://diatar.eu)
 
-**A fejlesztő Hozé is itt lesz a II. Szent József Hackathonon**
+**A fejlesztő Hozé is résztvevője a Szent József Hackathonnak**
 
 ### Legérdekesebb fejlesztési irányok, amire szükség lenne:
 - **A diatárba meg előkészíthetnénk az igenaptár alapján minden olvasmányt jó előre. Ezek egyszerű szövegfájlok speciál formátumban.**
@@ -57,7 +57,12 @@ Shelly kütyük beszerelésével lámpakapcsolásra jelzést küldünk a szerver
 ![](https://img.shields.io/github/issues-pr/szentjozsefhackathon/szentiras.hu?style=for-the-badge)
 ![owner](https://img.shields.io/badge/Owner-szentjozsefhackathon-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fszentjozsefhackathon)
 
-2025 januárjától a Szent Jeromos Bibliatársulat egy új, zárt forráskódú rendszert vezetett be a https://szentiras.hu oldalon. Az új platform jelentősen frissített és kibővített szövegeket kínál, azonban jelentősen kevesebb szolgáltatást nyújt. A régi oldal elérhető a https://regi.szentiras.hu oldalon, melynek frissítése elkezdődött, és új funkciók is várhatók bele. Az issuekat át kell nézni.
+- Kulcsszavak: *Laravel, AI, php*
+- Platformok: *web*
+- Forráskód: [github.com/szentjozsefhackathon/szentiras.eu](https://github.com/szentjozsefhackathon/szentiras.eu)
+- Honlap: [szentiras.eu](https://szentiras.eu)
+
+2025 januárjától a Szent Jeromos Bibliatársulat egy új, zárt forráskódú rendszert vezetett be a https://szentiras.hu oldalon. Az új platform jelentősen frissített és kibővített szövegeket kínál, azonban jelentősen kevesebb szolgáltatást nyújt. A régi oldal a https://szentiras.eu oldalon újra él, új funkciókkal, többek között az AI kereséssel. Az issuekat át kell nézni. Lehet fejleszteni, szépíteni.
 
 ## MISEREND.HU
 ![](https://img.shields.io/github/last-commit/borazslo/miserend.hu?style=for-the-badge)
@@ -66,15 +71,18 @@ Shelly kütyük beszerelésével lámpakapcsolásra jelzést küldünk a szerver
 ![](https://img.shields.io/github/issues-pr/borazslo/miserend.hu?style=for-the-badge)
 ![owner](https://img.shields.io/badge/Owner-borazslo-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fborazslo)
 
-Mintegy 5000 magyar nyelvű misézőhely összefogása és frissentartása nem kis feladat.
+Mintegy 5000 magyar nyelvű misézőhely összefogása és frissentartása nem kis feladat. 2025-ben adományokból egy cég közreműködésével megújult, egyszerűbben lehet rögzíteni a miserendeket. 
 - Kulcsszavak: *API, symphony, php, mysql, cdi*
 - Platformok: *web, android, ios*
 - Forráskód: [github.com/borazslo/miserend.hu](https://github.com/borazslo/miserend.hu)
 - Honlap: [miserend.hu](https://miserend.hu)
 
 ### Néhány teendő
-- Amíg a kód portolása és újrarendezése nem teljes, addig csak nagyon körülhatárolt fejlesztéseket lehet végrehajtani. Lásd: https://github.com/borazslo/miserend.hu/issues/177 Portolás fővezére: [@connorhu](https://github.com/connorhu)
-- **Komplex miserend felviteléhez új és egyszerű beviteli forma a frontenden. Lásd: https://github.com/borazslo/miserend.hu/issues/144**
+- Az előző verzión elkezdődött a kód portolása, ami abbamaradt. Lásd: https://github.com/borazslo/miserend.hu/issues/177 Ez a portolás is elkészítendő még.
+- Issuek átnézése
+- Templomok meglévő naptárának importálása
+- Miserend nyomtatás hirdetésekkel, akár formátumbeállításokkal is.
+
 
 ## Open Street Map: Katolikus Templomok
 Az Open Street Map térképadatbázisban kezelt katolikus adatok kérdésköre megér egy teljes külön dokumentumot: [katolikusOSM](/katolikusOSM.md)
@@ -103,7 +111,7 @@ A nyílt forráskódú pont és pecsétgyűjtő misenapló digitális változata
 - Forráskód: [github.com/misenaplo/misenaplo](https://github.com/misenaplo/misenaplo)
 - Honlap: [misenaplo.hu](https://misenaplo.hu)
 
-**A fejlesztő Vörös László is itt lesz a II. Szent József Hackathonon**
+**A fejlesztő Vörös László is itt lesz a Szent József Hackathonon**
 
 ## Zsolozsma
 ![last commit](https://img.shields.io/github/last-commit/breviar-sk/Liturgia-hodin-online?style=for-the-badge)
@@ -148,7 +156,7 @@ Szakdolgozatként indult fejlesztés amely a II. Szent József Hackathonon debü
 **A fejlesztő T. Lilla is itt lesz a II. Szent József Hackathonon**
 
 ## Ignáci Ima alkalmazás
-Android alkalmazás ami többféle imád levezet, akár hangosan kísérve azt. Megrendelte az Ignáci Pedagógi Műhely
+Android alkalmazás ami többféle imád levezet, akár hangosan kísérve azt. Megrendelte az Ignáci Pedagógia Műhely
 
 - Kulcsszavak: *android*
 - Honlap: https://play.google.com/store/apps/details?id=hu.jezsuita.ima.ignaci

@@ -21,3 +21,27 @@ Nyílt liturgikus naptár. Bár a zsolozsma naptárja mindent visz jelenleg, de 
 
 - Forráskód: https://github.com/opensourcecatholic/opensourcecatholic.github.io
 - Honlap: https://www.opensourcecatholic.com/
+
+## Catholic Open Source
+
+https://github.com/CatholicOS
+
+## Guild of St. Isidore
+
+Torontói székhelyű csapat, akik nyílt forráskódú katolikus programokkal foglalkoznak.
+
+https://github.com/guild-st-isidore-TO
+
+## Divinum Officium
+
+![last commit](https://img.shields.io/github/last-commit/DivinumOfficium/divinum-officium?style=for-the-badge)
+![commit activity](https://img.shields.io/github/commit-activity/y/DivinumOfficium/divinum-officium?style=for-the-badge) 
+![issues](https://img.shields.io/github/issues/DivinumOfficium/divinum-officium?style=for-the-badge)
+![pull requests](https://img.shields.io/github/issues-pr/DivinumOfficium/divinum-officium?style=for-the-badge)
+![owner](https://img.shields.io/badge/Owner-DivinumOfficium-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FDivinumOfficium)
+
+A hagyományos misekönyveket, zsolozsmákat és fordításaikat közlő honlap. A magyar fordításon van mit csiszolni, illetve a forráskódon is lehet.
+
+- Forráskód: https://github.com/DivinumOfficium/divinum-officium
+
+- Honlap: https://www.divinumofficium.com/

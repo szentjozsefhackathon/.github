@@ -14,7 +14,7 @@ Az Open Street Map nyílt térképadatbázisba folyamatosan visszük fel és fri
 
 A 2024-ben megrendezett II. Szent József Hackathonon QGIS segítségével jelentős manuális munkával elkészült egy Szeged-miserendtérkép.
 A II.-III. Szent József Hackathon között el lett kezdve egy automatikus szkript írása erre a feladatra. 
-- Kulcsszavak: *Python, Matplotlib, Miserend.hu API*
+- Kulcsszavak: *HTML, JS, CSS, Miserend.hu API, vibe coding*
 - Projekt oldala: https://github.com/szentjozsefhackathon/templom-terkep
 
 ### További fejlesztések:

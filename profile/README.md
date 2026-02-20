@@ -1,18 +1,18 @@
 ## Szent József Hackathon
 
-2025 májusában rendezzük meg a [III. Szent József Hackathon - keresztény programozói műhely](https://szentjozsef.jezsuita.hu/szent-jozsef-hackathon/)t. 
+2026 áprilisában rendezzük meg a [IV. Szent József Hackathon - keresztény programozói műhely](https://szentjozsef.jezsuita.hu/szent-jozsef-hackathon/)t. 
 Ezzel az eseménnyel szeretnénk összefogni a magyar keresztény programozói köröket és egyből lendületet is adni egy-egy nyílt forráskódú egyházi projektnek.
 
 Ebben a github szervezetben szeretnénk összefogni és összefoglalni a munkáinkat és a projektek egy részének helyet is biztosítani.
 
 A Szent József Hackathon projekt Elek László SJ-től indul ([@borazslo](https://github.com/borazslo)).
-Mivel nem főállású, professzionális programozó, sem nem profi projekt manager, de még scrum master sem, így Szent József Hackathon felületeinek kialakítása sem professzionális. 
+Mivel nem főállású, professzionális programozó, sem nem profi projekt manager, de még scrum master sem, így a  Szent József Hackathon felületeinek kialakítása sem professzionális. 
 De ez ne tévesszen meg senkit, a közösségbe hosszabb-rövidebb ideig beszálló és besegítő tagok között a szakmaiság magas szinten jelen van, miközben belépő szintű programozóknak is tudunk lehatárolt szép részfeladatokat adni. (Amik akár szakmai munkaként egyetemen is beadhatóak lehetnek.)
 
 Területek amiken dolgozunk és amikbe be lehet csatlakozni:
 
 ### [Projektek](/projektek.md)
-*Diatár, NapiPakk, Gyóntatáskereső, SZENTIRAS.HU, MISEREND.HU, Miserend Mobil App, MisEnapló, Zsolozsma, AndroKat, Szentség(örök)imádás szervező alkalmazás, Ignáci Szikrák, Katolikus KSH, Liturgia.tv, igemutató, sematizmus, PapIma*
+*Diatár, NapiPakk, Gyóntatáskereső, SZENTIRAS.EU, MISEREND.HU, Miserend Mobil App, MisEnapló, Zsolozsma, AndroKat, Szentség(örök)imádás szervező alkalmazás, Ignáci Szikrák, Katolikus KSH, Liturgia.tv, igemutató, sematizmus, PapIma*
 
 Már több mint egy tucat olyan magyar nyelvű katolikus digitális keresztény projekt van, amihez valamilyen módon kapcsolódunk. Szívesen bővítjük a listát, és várunk mindenkit aki bekapcsolódna. A teljes listához, forráskódhoz, felelősökhöz és fejleszteni valókhoz nézd át a listánkat.
 

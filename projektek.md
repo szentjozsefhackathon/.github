@@ -148,13 +148,6 @@ Android és katolikus. Összefogja a legtöbb elérhető magyar katolikus anyago
 - Forráskód: https://github.com/agu5a/androkat és hozzá Wiki: https://github.com/agu5a/androkat/wiki
 - Honlap: https://androkat.hu/
 
-## Szentségimádás, örökimádás szervező alkalmazás
-Szakdolgozatként indult fejlesztés amely a II. Szent József Hackathonon debütál. Lehet csatlakozni!
-
-- Kulcsszavak: *Angular, Java, adatbázis*
-
-**A fejlesztő T. Lilla is itt lesz a II. Szent József Hackathonon**
-
 ## Ignáci Ima alkalmazás
 Android alkalmazás ami többféle imád levezet, akár hangosan kísérve azt. Megrendelte az Ignáci Pedagógia Műhely
 

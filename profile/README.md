@@ -32,7 +32,7 @@ Gyűjtjük azokat a projekteket is, amiknek még "csak" pár tíz oldalas specif
 ### [További figyelemreméltó projektek](/figyelemremeltoak.md)
 Itt vannak olyan katolikus/keresztény projektek amik a Szent József Hackathon tematikájába szépen beleillenek, de nincs hozzájuk semmi közünk.
 
-### [Nem (csak) programozóknak](/nemprogramozoknak.md)
+### [Nem (csak) programozóknak](/nemprogramozoknak.md)
 Itt vannak olyan projektek, amiken programozói tudás nélkül is aránylag könnyű javítani, elsősorban szöveggondozós projektek ezek.
 
 

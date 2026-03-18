@@ -134,20 +134,6 @@ A digitális zsolozsma szinte minden platformon elérhető már.
     - Ezeket a nyelveket nem kell érteni, hisz a *-okat, kereszteket látjuk, illetve van pár segédosztály, ami segítségünkre van, ezért lehet reguláris kifejezéssel megoldani.
 - Egyszer majd: a projekt alkalmassá tétele hanganyagok fogadására és összeállítására #hangoszsolozsma jeligére.
 
-## AndroKat
-![last commit](https://img.shields.io/github/last-commit/agu5a/androkat?style=for-the-badge)
-![commit activity](https://img.shields.io/github/commit-activity/y/agu5a/androkat?style=for-the-badge) 
-![issues](https://img.shields.io/github/issues/agu5a/androkat?style=for-the-badge)
-![pull requests](https://img.shields.io/github/issues-pr/agu5a/androkat?style=for-the-badge)
-![owner](https://img.shields.io/badge/Owner-agu5a-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fagu5a)
-
-Android és katolikus. Összefogja a legtöbb elérhető magyar katolikus anyagot az interneten egy alkalmazásba és honlapba.
-
-- Kulcsszavak: *NET 7 MAUI*
-- Platformok: *android, web*
-- Forráskód: https://github.com/agu5a/androkat és hozzá Wiki: https://github.com/agu5a/androkat/wiki
-- Honlap: https://androkat.hu/
-
 ## Ignáci Ima alkalmazás
 Android alkalmazás ami többféle imád levezet, akár hangosan kísérve azt. Megrendelte az Ignáci Pedagógia Műhely
 

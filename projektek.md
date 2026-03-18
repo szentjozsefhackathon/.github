@@ -20,6 +20,20 @@ Rengeteg templomban használt kivetítőrendszer, amivel már nem csak énekeket
 - Bibliával betanított SpeechToText dia gyártásával könnyen feliratozni lehetne még a prédikációt is, ami sokaknak hasnzos.
 - TCP/IP csomagok helyett [websocketre átállással](https://github.com/diatar/diatar-lazarus/issues/1) több vetítő rendszer is működhet egyszerre, és mobilon is követni lehetne a kivetítést.
 
+## Cantores.hu
+![last commit](https://img.shields.io/github/last-commit/szentjozsefhackathon/cantores?style=for-the-badge)
+![commit activity](https://img.shields.io/github/commit-activity/y/szentjozsefhackathon/cantores?style=for-the-badge) 
+![issues](https://img.shields.io/github/issues/szentjozsefhackathon/cantores?style=for-the-badge)
+![pull requests](https://img.shields.io/github/issues-pr/szentjozsefhackathon/cantores?style=for-the-badge)
+![owner](https://img.shields.io/badge/Owner-polyJoe-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fszentjozsefhackathon)
+
+A Cantores.hu egy kántoroknak és más érdeklődőknek szóló platform, amely elsősorban az énekrendek, illetve a liturgia zenei anyagának összeállításában segít.
+
+- Kulcsszavak: *Laravel, AI, php*
+- Platformok: *web*
+- Forráskód: [github.com/szentjozsefhackathon/cantores.hu](https://github.com/szentjozsefhackathon/cantores.hu)
+- Honlap: [cantores.hu](https://cantores.hu)
+
 ## NapiPakk 
 ![](https://img.shields.io/github/last-commit/szentjozsefhackathon/napi-lelki-batyu?style=for-the-badge)
 ![](https://img.shields.io/github/commit-activity/y/szentjozsefhackathon/napi-lelki-batyu?style=for-the-badge) 

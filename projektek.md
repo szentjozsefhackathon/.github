@@ -25,13 +25,13 @@ Rengeteg templomban használt kivetítőrendszer, amivel már nem csak énekeket
 ![commit activity](https://img.shields.io/github/commit-activity/y/szentjozsefhackathon/cantores?style=for-the-badge) 
 ![issues](https://img.shields.io/github/issues/szentjozsefhackathon/cantores?style=for-the-badge)
 ![pull requests](https://img.shields.io/github/issues-pr/szentjozsefhackathon/cantores?style=for-the-badge)
-![owner](https://img.shields.io/badge/Owner-polyJoe-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fszentjozsefhackathon)
+![owner](https://img.shields.io/badge/Owner-briff-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fbriff)
 
 A Cantores.hu egy kántoroknak és más érdeklődőknek szóló platform, amely elsősorban az énekrendek, illetve a liturgia zenei anyagának összeállításában segít.
 
-- Kulcsszavak: *Laravel, AI, php*
+- Kulcsszavak: *Laravel, php*
 - Platformok: *web*
-- Forráskód: [github.com/szentjozsefhackathon/cantores.hu](https://github.com/szentjozsefhackathon/cantores.hu)
+- Forráskód: [github.com/szentjozsefhackathon/cantores.hu](https://github.com/szentjozsefhackathon/cantores)
 - Honlap: [cantores.hu](https://cantores.hu)
 
 ## NapiPakk 

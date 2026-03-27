@@ -45,3 +45,31 @@ A hagyományos misekönyveket, zsolozsmákat és fordításaikat közlő honlap.
 - Forráskód: https://github.com/DivinumOfficium/divinum-officium
 
 - Honlap: https://www.divinumofficium.com/
+
+## Missale Meum
+
+![last commit](https://img.shields.io/github/last-commit/mmolenda/missalemeum?style=for-the-badge)
+![commit activity](https://img.shields.io/github/commit-activity/y/mmolenda/missalemeum?style=for-the-badge) 
+![issues](https://img.shields.io/github/issues/mmolenda/missalemeum?style=for-the-badge)
+![pull requests](https://img.shields.io/github/issues-pr/mmolenda/missalemeum?style=for-the-badge)
+![owner](https://img.shields.io/badge/Owner-mmolenda-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fmmolenda)
+
+Az 1962-es misekönyvet közlő honlap. Forrása a Divinum Officium, de a magyar nyelvet itt még be kell állítani.
+
+- Forráskód: https://github.com/mmolenda/missalemeum
+
+- Honlap: https://www.missalemeum.com
+
+## Énekelt zsolozsma
+
+![last commit](https://img.shields.io/github/last-commit/fay-ambrus/enekelt-zsolozsma?style=for-the-badge)
+![commit activity](https://img.shields.io/github/commit-activity/y/fay-ambrus/enekelt-zsolozsma?style=for-the-badge) 
+![issues](https://img.shields.io/github/issues/fay-ambrus/enekelt-zsolozsma?style=for-the-badge)
+![pull requests](https://img.shields.io/github/issues-pr/fay-ambrus/enekelt-zsolozsma?style=for-the-badge)
+![owner](https://img.shields.io/badge/Owner-fay-ambrus-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Ffay-ambrus)
+
+Az Imaórák Liturgájának énekelt változatának terjedését segíti elő ez a projekt.
+
+- Forráskód: https://github.com/fay-ambrus/enekelt-zsolozsma
+
+

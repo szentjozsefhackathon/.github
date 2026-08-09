@@ -242,3 +242,7 @@ A [Sematizmus](https://github.com/szentjozsefhackathon/.github/edit/main/projekt
 ![owner](https://img.shields.io/badge/Owner-baueri-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fbaueri)
 
 Keresztény közösségkereső oldal
+
+- Kulcsszavak: *php, html*
+- Forráskód: https://github.com/baueri/kozossegek-hu
+- Honlap: https://kozossegek.hu

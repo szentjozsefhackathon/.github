@@ -5,7 +5,7 @@
 ![commit activity](https://img.shields.io/github/commit-activity/y/diatar-eu/diatar-flutter?style=for-the-badge) 
 ![issues](https://img.shields.io/github/issues/diatar-eu/diatar-flutter?style=for-the-badge)
 ![pull requests](https://img.shields.io/github/issues-pr/diatar-eu/diatar-flutter?style=for-the-badge)
-![owner](https://img.shields.io/badge/Owner-diatar_eu-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fdiatar-eu)
+![owner](https://img.shields.io/badge/Owner-diatar--eu-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fdiatar-eu)
 
 Rengeteg templomban használt kivetítőrendszer, amivel már nem csak énekeket lehet kivetíteni.
 - Kulcsszavak: *Flutter, mqtt, websocket, tcp/ip*

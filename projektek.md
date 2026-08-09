@@ -1,16 +1,16 @@
 # Érdeklődésünkbe tartozó néhány projekt
 
 ## Diatár
-![last commit](https://img.shields.io/github/last-commit/diatar/diatar-lazarus?style=for-the-badge)
-![commit activity](https://img.shields.io/github/commit-activity/y/diatar/diatar-lazarus?style=for-the-badge) 
-![issues](https://img.shields.io/github/issues/diatar/diatar-lazarus?style=for-the-badge)
-![pull requests](https://img.shields.io/github/issues-pr/diatar/diatar-lazarus?style=for-the-badge)
-![owner](https://img.shields.io/badge/Owner-polyJoe-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FpolyJoe)
+![last commit](https://img.shields.io/github/last-commit/diatar-eu/diatar-flutter?style=for-the-badge)
+![commit activity](https://img.shields.io/github/commit-activity/y/diatar-eu/diatar-flutter?style=for-the-badge) 
+![issues](https://img.shields.io/github/issues/diatar-eu/diatar-flutter?style=for-the-badge)
+![pull requests](https://img.shields.io/github/issues-pr/diatar-eu/diatar-flutter?style=for-the-badge)
+![owner](https://img.shields.io/badge/Owner-diatar-eu-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fdiatar-eu)
 
 Rengeteg templomban használt kivetítőrendszer, amivel már nem csak énekeket lehet kivetíteni.
 - Kulcsszavak: *Flutter, mqtt, websocket, tcp/ip*
 - Platformok: *Windows, Linux, Rasperrby Pi, Android, iOS, Web*
-- Forráskód: [github.com/diatar/diatar-aflutter](https://github.com/diatar/diatar-flutter), [diatar/diatar-dtxs](https://github.com/diatar/diatar-dtxs), [diatar/diatar-web](https://github.com/diatar/diatar-web)
+- Forráskód: [github.com/diatar/diatar-flutter](https://github.com/diatar-eu/diatar-flutter), [diatar/diatar-dtxs](https://github.com/diatar-eu/diatar-dtxs), [diatar/diatar-web](https://github.com/diatar-eu/diatar-web)
 - Honlap: [diatar.eu](https://diatar.eu)
 
 **A fejlesztő Hozé is résztvevője a Szent József Hackathonnak**

@@ -5,12 +5,12 @@
 ![commit activity](https://img.shields.io/github/commit-activity/y/diatar-eu/diatar-flutter?style=for-the-badge) 
 ![issues](https://img.shields.io/github/issues/diatar-eu/diatar-flutter?style=for-the-badge)
 ![pull requests](https://img.shields.io/github/issues-pr/diatar-eu/diatar-flutter?style=for-the-badge)
-![owner](https://img.shields.io/badge/Owner-diatar-eu-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fdiatar-eu)
+![owner](https://img.shields.io/badge/Owner-diatar_eu-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fdiatar-eu)
 
 Rengeteg templomban használt kivetítőrendszer, amivel már nem csak énekeket lehet kivetíteni.
 - Kulcsszavak: *Flutter, mqtt, websocket, tcp/ip*
-- Platformok: *Windows, Linux, Rasperrby Pi, Android, iOS, Web*
-- Forráskód: [github.com/diatar/diatar-flutter](https://github.com/diatar-eu/diatar-flutter), [diatar/diatar-dtxs](https://github.com/diatar-eu/diatar-dtxs), [diatar/diatar-web](https://github.com/diatar-eu/diatar-web)
+- Platformok: *Windows, Linux, Raspberry Pi, Android, iOS, macOS, Web*
+- Forráskód: [github.com/diatar-eu/diatar-flutter](https://github.com/diatar-eu/diatar-flutter), [diatar-eu/diatar-dtxs](https://github.com/diatar-eu/diatar-dtxs), [diatar-eu/diatar-web](https://github.com/diatar-eu/diatar-web)
 - Honlap: [diatar.eu](https://diatar.eu)
 
 **A fejlesztő Hozé is résztvevője a Szent József Hackathonnak**

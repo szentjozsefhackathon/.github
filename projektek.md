@@ -8,17 +8,16 @@
 ![owner](https://img.shields.io/badge/Owner-polyJoe-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FpolyJoe)
 
 Rengeteg templomban használt kivetítőrendszer, amivel már nem csak énekeket lehet kivetíteni.
-- Kulcsszavak: *lazarus, mqtt, websocket, tcp/ip*
-- Platformok: *Windows, Linux, Rasperrby Pi, Android*
-- Forráskód: [github.com/diatar/diatar-android](https://github.com/diatar/diatar-android), [diatar/diatar-lazarus](https://github.com/diatar/diatar-lazarus), [diatar/diatar-dtxs](https://github.com/diatar/diatar-dtxs), [diatar/diatar-web](https://github.com/diatar/diatar-web)
+- Kulcsszavak: *Flutter, mqtt, websocket, tcp/ip*
+- Platformok: *Windows, Linux, Rasperrby Pi, Android, iOS, Web*
+- Forráskód: [github.com/diatar/diatar-aflutter](https://github.com/diatar/diatar-flutter), [diatar/diatar-dtxs](https://github.com/diatar/diatar-dtxs), [diatar/diatar-web](https://github.com/diatar/diatar-web)
 - Honlap: [diatar.eu](https://diatar.eu)
 
 **A fejlesztő Hozé is résztvevője a Szent József Hackathonnak**
 
 ### Legérdekesebb fejlesztési irányok, amire szükség lenne:
-- **A diatárba meg előkészíthetnénk az igenaptár alapján minden olvasmányt jó előre. Ezek egyszerű szövegfájlok speciál formátumban.**
-- Bibliával betanított SpeechToText dia gyártásával könnyen feliratozni lehetne még a prédikációt is, ami sokaknak hasnzos.
-- TCP/IP csomagok helyett [websocketre átállással](https://github.com/diatar/diatar-lazarus/issues/1) több vetítő rendszer is működhet egyszerre, és mobilon is követni lehetne a kivetítést.
+- Bibliával betanított SpeechToText dia gyártásával könnyen feliratozni lehetne még a prédikációt is, ami sokaknak hasznos.
+- És még sok egyéb
 
 ## Cantores.hu
 ![last commit](https://img.shields.io/github/last-commit/szentjozsefhackathon/cantores?style=for-the-badge)
@@ -63,7 +62,7 @@ Shelly kütyük beszerelésével lámpakapcsolásra jelzést küldünk a szerver
 ### Következő lépés:
 - **Öt szegedi templomban akár shelly beszerelés is része lehet a programnak.**
 
-## SZENTIRAS.EU (REGI.SZENTIRAS.HU)
+## SZENTIRAS.EU (RÉGI SZENTIRAS.HU)
 
 ![](https://img.shields.io/github/last-commit/szentjozsefhackathon/szentiras.hu?style=for-the-badge)
 ![](https://img.shields.io/github/commit-activity/y/szentjozsefhackathon/szentiras.hu?style=for-the-badge) 
@@ -94,7 +93,6 @@ Mintegy 5000 magyar nyelvű misézőhely összefogása és frissentartása nem k
 ### Néhány teendő
 - Az előző verzión elkezdődött a kód portolása, ami abbamaradt. Lásd: https://github.com/borazslo/miserend.hu/issues/177 Ez a portolás is elkészítendő még.
 - Issuek átnézése
-- Templomok meglévő naptárának importálása
 - Miserend nyomtatás hirdetésekkel, akár formátumbeállításokkal is.
 
 
@@ -235,3 +233,12 @@ A [Sematizmus](https://github.com/szentjozsefhackathon/.github/edit/main/projekt
 - Kulcsszavak: *Flutter, Supabase*
 - Forráskód: https://github.com/szentjozsefhackathon/papima
 - Honlap: https://papima.hu
+
+## Közösségek.hu
+![](https://img.shields.io/github/last-commit/baueri/kozossegek-hu?style=for-the-badge)
+![](https://img.shields.io/github/commit-activity/y/baueri/kozossegek-hu?style=for-the-badge) 
+![](https://img.shields.io/github/issues/baueri/kozossegek-hu?style=for-the-badge)
+![](https://img.shields.io/github/issues-pr/baueri/kozossegek-hu?style=for-the-badge)
+![owner](https://img.shields.io/badge/Owner-baueri-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fbaueri)
+
+Keresztény közösségkereső oldal

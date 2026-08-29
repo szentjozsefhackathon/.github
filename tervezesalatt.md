@@ -38,3 +38,5 @@ Van olyan plébánia, aminek nincs honlapja. Egy "kifogás", amit hallottam, hog
 - Alternatíva lehet még a Jekyll
 
 Érdeklódés [Vörös Lászlónál](https://github.com/vlacko0930)
+
+## Keresztény zenés Hister-szerű digitális játék.

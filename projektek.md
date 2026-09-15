@@ -26,12 +26,35 @@ Rengeteg templomban használt kivetítőrendszer, amivel már nem csak énekeket
 ![pull requests](https://img.shields.io/github/issues-pr/szentjozsefhackathon/cantores?style=for-the-badge)
 ![owner](https://img.shields.io/badge/Owner-briff-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fbriff)
 
-A Cantores.hu egy kántoroknak és más érdeklődőknek szóló platform, amely elsősorban az énekrendek, illetve a liturgia zenei anyagának összeállításában segít.
+Liturgikus zenei műhely kántoroknak, szkólavezetőknek, kórusvezetőknek és gitáros zenekarok vezetőinek: énekrend, kotta, füzet és vetítés ugyanabból az anyagból, egyetlen munkamenetben.
 
-- Kulcsszavak: *Laravel, php*
+Nem énektár, nem kottaszerkesztő, nem vetítőprogram — hanem mindez együtt. Egy közösség ritkán énekel pontosan úgy, ahogy az a gyűjteményben szerepel: más hangnem, más versszakok, saját kíséret, egy bevált átirat. A Cantores azt a munkát gyűjti egy helyre, ami eddig külön mappákban, gépeken és pendrive-okon volt szétszórva. Ami nincs készen, azt a felhasználó ott helyben megcsinálja, és többé nem kell újra megcsinálnia.
+
+A négy lépés ugyanarra az anyagra épül:
+1. **Énekrend** – mi hangzik el vasárnap: sablonból, javaslatokból vagy tiszta lapról.
+2. **Kotta** – a saját változat: más hangnem, más versszakok, saját kíséret és szólamok. Négy formátumban írható, vagy feltölthető a meglévő.
+3. **Füzet** – nyomtatható füzet A4, A5, A6 méretben, montírozva, a zenészek kezébe.
+4. **Vetítés** – kivetített kép a saját képarányra tördelve, távirányítóval.
+
+Semmit nem kell telepíteni: otthon, a templomban és a próbán ugyanaz az anyag — akkor is, ha a plébánia kicseréli a laptopot. Ingyenes, önkéntes alapon működik.
+
+- Kulcsszavak: *Laravel, php, LilyPond, ABC, kottagrafika, PDF, vetítés*
 - Platformok: *web*
 - Forráskód: [github.com/szentjozsefhackathon/cantores.hu](https://github.com/szentjozsefhackathon/cantores)
 - Honlap: [cantores.hu](https://cantores.hu)
+
+### Fejlesztési irányok, amikbe be lehet kapcsolódni:
+- **Kottabevitel és kottakezelés**: könnyebben kezelhető szerkesztők, a szöveg automatikus elválasztása, versszakkezelés, akkordos és akkord nélküli kották/szövegek egyetlen forrásból — vagyis ugyanannak a kottának a különböző reprezentációi.
+- **Kétirányú kapcsolat a [Diatárral](#diatár)**: énekrendek exportja offline és online is.
+- **Munkafolyamatok**: a napló jobban láthatóvá tétele — mit énekeltünk nemrég, mit nagyon régen.
+- **Zenekari közös, egyidejű használat** megtervezése és fejlesztése.
+- **Diameditáció mise előtt**: képek és szövegek időzített megjelenítése, amire ma PPT készül.
+- **A zenekar készülésének segítése**: az elküldött énekrendből a zenészek könnyen elérik a tanulóanyagokat (részben már működik, ezt kellene továbbvinni).
+- **Képek feltöltése** — itt fontos a tárhellyel való gazdálkodás.
+- **Népszerűsítés, terjesztés** lehetőségei.
+- **Licenszkezelési rétegek.**
+- **Tesztelés**: rengeteg kell belőle, különösen a ritkán használt flow-kban (regisztráció, bejelentkezés).
+- **Customer engagement**: a legtöbb regisztrált felhasználó egyszer lépett be, és soha többet.
 
 ## NapiPakk 
 ![](https://img.shields.io/github/last-commit/szentjozsefhackathon/napi-lelki-batyu?style=for-the-badge)
